@@ -13,37 +13,30 @@ I am going to show the overview of data with graphics and extracting these data 
 
 ### Expenses
 
+I am creating a dashboard and a graphic page for expenses. This data is stored through the form section into MongoDB. 
+https://github.com/user-attachments/assets/d7182805-dfb8-41a1-a634-12c4b40dc39a
 
+### Genre-based
 
-### `npm run build`
+This section is still empty but I am going to show data in genre-based because I would like to see how much I spent on food, housing, transportation, personal care, and so on.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Record
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I am creating the record section to clearly see purchase record day-to-day. I can also modify data from this section in the future.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## FX rate
 
-### `npm run eject`
+I am going to show a foregin exchange rate because I love traveling and I do not want to consider exchanging JPY to AUD or USD every time. Therefore, I am incorporating this section into my web app.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Form
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can post your purchase history in this section and can modify it in the confirmation process before registering it. Additionally, you can write details of it in the description box. You can also modify your purchase history from the fix page. I am going to develop a function that automatically fill your purchase history without filling by scaning your receipt.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Registering your receipt
+https://github.com/user-attachments/assets/9b661e76-c133-4445-bca5-4cce98d44651
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Fix page
+https://github.com/user-attachments/assets/b1d3f805-aa0d-4d8b-8dd6-600bc6ab86f8
 
 ### Analyzing the Bundle Size
 
