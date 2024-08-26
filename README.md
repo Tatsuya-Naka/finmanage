@@ -36,7 +36,7 @@ Registering your receipt
 https://github.com/user-attachments/assets/9b661e76-c133-4445-bca5-4cce98d44651
 
 Fix page
-https://github.com/user-attachments/assets/b1d3f805-aa0d-4d8b-8dd6-600bc6ab86f8
+[https://github.com/user-attachments/assets/b1d3f805-aa0d-4d8b-8dd6-600bc6ab86f8](https://github.com/user-attachments/assets/7388a9bc-ae67-49b2-abdd-fc10cf64c86b)
 
 ### Analyzing the Bundle Size
 
