@@ -1,6 +1,6 @@
 # Financial Management Web App (Learning & Creating)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to create an app that manages my expenses. I love traveling so I am also going to add FX function and can see weekly/monthly/yearly expenses with different currency types (AUD, JPY, USD, CNY, EUR, GBP, NZD, CAD, CHF, MXN). 
 
 ## Available Scripts
 
