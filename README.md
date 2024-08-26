@@ -2,22 +2,18 @@
 
 This project is to create an app that manages my expenses. I love traveling so I am also going to add FX function and can see weekly/monthly/yearly expenses with different currency types (AUD, JPY, USD, CNY, EUR, GBP, NZD, CAD, CHF, MXN). 
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This app has the following section.
 
-### `npm start`
+### Dashboard
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I am going to show the overview of data with graphics and extracting these data from different components. So after completing this app, I will be able to show this.
+<img width="1470" alt="Screenshot 2024-08-27 at 8 27 20" src="https://github.com/user-attachments/assets/fbfb3c36-ff55-4f5c-8142-092b30f0a168">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Expenses
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
