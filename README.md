@@ -13,8 +13,8 @@ I am going to show the overview of data with graphics and extracting these data 
 
 ### Expenses
 
-I am creating a dashboard and a graphic page for expenses. This data is stored through the form section into MongoDB. 
-https://github.com/user-attachments/assets/d7182805-dfb8-41a1-a634-12c4b40dc39a
+  I am creating a dashboard and a graphic page for expenses. This data is stored through the form section into MongoDB. 
+  https://github.com/user-attachments/assets/d7182805-dfb8-41a1-a634-12c4b40dc39a
 
 ### Genre-based
 
