@@ -25,7 +25,7 @@ This section is still empty but I am going to show data in genre-based because I
 
 I am creating the record section to clearly see purchase record day-to-day. I can also modify data from this section in the future.
 
-## FX rate
+### FX rate
 
 I am going to show a foregin exchange rate because I love traveling and I do not want to consider exchanging JPY to AUD or USD every time. Therefore, I am incorporating this section into my web app.
 
@@ -37,9 +37,7 @@ Registering your receipt
 https://github.com/user-attachments/assets/9b661e76-c133-4445-bca5-4cce98d44651
 
 Fix page
-https://github.com/user-attachments/assets/eb93bc00-4028-462d-af78-5fb76dff4aab
-
-
+https://github.com/user-attachments/assets/3a8ef948-191a-47b1-a9cf-812b88713942
 
 ### Analyzing the Bundle Size
 
