@@ -42,22 +42,14 @@ Fix page
 
 https://github.com/Tatsuya-Naka/finmanage/assets/9c5c3134-58f9-46cf-84ca-3874ef6a8bf9
 
-### Analyzing the Bundle Size
+### Setting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+I am going to create a setting for user-friendly. For the future requirement, I would like to manage an user account securely. Therefore, I need to create a sing-up and a log-in page.
+Additionally, you can change currency types in the currency page by opening the dialog. You will be able to select the currency type by just selecting a country or area where you are. 
 
-### Making a Progressive Web App
+https://github.com/Tatsuya-Naka/finmanage/assets/e6bb9f39-e253-4074-b738-ee15793c2117
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Future
+・Sing-up/Log-in Page
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
