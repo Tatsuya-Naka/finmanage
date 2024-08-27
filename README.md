@@ -13,7 +13,8 @@ I am going to show the overview of data with graphics and extracting these data 
 
 ### Expenses
 
-  I am creating a dashboard and a graphic page for expenses. This data is stored through the form section into MongoDB.
+I am creating a dashboard and a graphic page for expenses. This data is stored through the form section into MongoDB.
+  
 https://github.com/Tatsuya-Naka/finmanage/assets/06d1ca94-f5c6-42b0-ae0a-1aacf591cda8
 
 
