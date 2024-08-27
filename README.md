@@ -17,7 +17,6 @@ I am going to show the overview of data with graphics and extracting these data 
 https://github.com/Tatsuya-Naka/finmanage/assets/06d1ca94-f5c6-42b0-ae0a-1aacf591cda8
 
 
-
 ### Genre-based
 
 This section is still empty but I am going to show data in genre-based because I would like to see how much I spent on food, housing, transportation, personal care, and so on.
