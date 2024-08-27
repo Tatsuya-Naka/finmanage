@@ -33,7 +33,8 @@ I am going to show a foregin exchange rate because I love traveling and I do not
 You can post your purchase history in this section and can modify it in the confirmation process before registering it. Additionally, you can write details of it in the description box. You can also modify your purchase history from the fix page. I am going to develop a function that automatically fill your purchase history without filling by scaning your receipt.
 
 Registering your receipt
-https://github.com/user-attachments/assets/9b661e76-c133-4445-bca5-4cce98d44651
+
+https://github.com/Tatsuya-Naka/finmanage/assets/68a337b2-81c4-4a5c-b8a6-efaac6bc28f8
 
 Fix page
 https://github.com/user-attachments/assets/a89c7292-923a-402f-91ff-50ce248a239d
