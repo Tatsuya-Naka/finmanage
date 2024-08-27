@@ -37,7 +37,8 @@ Registering your receipt
 https://github.com/Tatsuya-Naka/finmanage/assets/68a337b2-81c4-4a5c-b8a6-efaac6bc28f8
 
 Fix page
-https://github.com/user-attachments/assets/a89c7292-923a-402f-91ff-50ce248a239d
+
+https://github.com/Tatsuya-Naka/finmanage/assets/9c5c3134-58f9-46cf-84ca-3874ef6a8bf9
 
 ### Analyzing the Bundle Size
 
